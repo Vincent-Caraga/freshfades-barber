@@ -1,0 +1,56 @@
+h2{
+   margin-top: 100px;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.location-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Create two columns of equal width */
+    gap: 20px 50px; /* Adjust gap as needed: row-gap column-gap */
+    padding: 20px; /* Add some padding around the whole grid */
+    text-align: center;
+    align-items: center;
+    justify-self: center;
+    display: inline-grid;
+    grid-template-columns: repeat(1fr, 1fr, 1fr);
+    margin-left: 80px;
+}
+h4{
+    /*Basic styling for each h2 */
+    line-height: 1.5;
+    margin-bottom: 20px; /* Add some space between h2 in the same column if needed */
+    font-size: 1.2em;
+    margin-bottom: 5px; /* Space between title and address */
+    font-weight: bold;
+}
+p{
+    font-size: 1.0em;
+    margin-bottom: 0;
+}
+
+
+/*h2{
+    margin-top: 100px;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.branch-title h4{
+    
+    font-size: 20px;
+    color: black;
+}
+.branch-title p{
+    
+    font-size: 15px;
+}
+.location-grid{
+    text-align: center;
+    align-items: center;
+    justify-self: center;
+    display: inline-grid;
+    grid-template-columns: repeat(1fr, 1fr, 1fr);
+}*/

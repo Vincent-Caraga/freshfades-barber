@@ -1,0 +1,12 @@
+.service{
+    margin-right: 50px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-top: -20px;
+    margin-bottom: 80px;
+}
