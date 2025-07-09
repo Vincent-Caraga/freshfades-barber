@@ -6,17 +6,22 @@ import Service from './components/Service/Service'
 import Branches from './components/Branches/Branches'
 import Footer from './components/Footer/Footer'
 
+
+
 const App = () => {
   return (
     <div>
-      <Navbar/>
+     <Navbar/>
       <Header/>
       <AboutUs/>
       <Service/>
       <Branches/>
       <Footer/>
     </div>
+     
+    
   )
 }
 
 export default App
+
