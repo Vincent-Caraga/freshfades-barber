@@ -4,6 +4,7 @@ import Header from './components/Header/Header'
 import AboutUs from './components/AboutUs/AboutUs'
 import Service from './components/Service/Service'
 import Branches from './components/Branches/Branches'
+import Footer from './components/Footer/Footer'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <AboutUs/>
       <Service/>
       <Branches/>
+      <Footer/>
     </div>
   )
 }

@@ -1,0 +1,21 @@
+.footer{
+    background-color: #f5f5dc;
+    color: black;
+    height: 280px; 
+    text-align: center;
+    font-family: Arial, sans-serif;  
+}
+.fresh-fades h2{
+    padding: 60px 30px;
+    font-size: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.footer-copyright{
+    margin-top: -100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
